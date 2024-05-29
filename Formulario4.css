@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(../flores.jpg)
+}
+
+table{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    position: relative;
+    top: 120px;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: brown;
+}

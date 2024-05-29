@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    height: 220px;
+    margin-top: 90px;
+}
+section{
+    padding-top: 50px;
+    margin-left: 50px;
+    
+}
+article{
+    padding-top: 30px;
+
+}
+.datos h1 {
+    text-align: center;
+    padding-bottom: 80px;
+    font-size: 50px;
+    color:blueviolet;
+}
+.datos ul li {
+    margin-left: 600px;
+}
+.datos{
+    background-color:red ;
+}
+
+    
+
+
+
